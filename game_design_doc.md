@@ -1,10 +1,8 @@
 # GDD
 
-
-
 ## Aesthetic
-- Rymdskepp
-- Robotar
+ - Rymdskepp
+ - Robotar
 
 ## Egenskaper
  - RTS - realtidsstrategi
@@ -22,4 +20,3 @@
  - asteriodmaterial
 
 ## Goal
-1.
